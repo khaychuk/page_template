@@ -1,8 +1,17 @@
-## Welcome to GitHub Pages
+## Work Experience
 
-You can use the [editor on GitHub](https://github.com/khaychuk/page1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+```* from life import experience
+     from school import ability_to_learn
+     from parents import happy_life
+     
+     Age = 33
+     Nationality = Ukrainan
+     Citizenship = US
+     Education = BS_Science_IT
+     ML_Experience = Intern_text_machine_lab
+     Work = Math_teacher
+     
+```
 
 ### Markdown
 
