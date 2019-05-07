@@ -1,6 +1,6 @@
 ## Work Experience
 
-```* from life import experience
+```  from life import experience
      from school import ability_to_learn
      from parents import happy_life
      
