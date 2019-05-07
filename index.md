@@ -10,15 +10,20 @@ from parents import happy_life
      Languages = ["English", "Ukrainian", "Russian"]
      Education = ["BS_IT", "BS_CS"]
      Experience = ["Intern_text_machine_lab", "Math_teacher", "Project_manager"]
+     data = SQL
      Python = {
           Numpy: Proficient;
           Pandas: Proficient;
           }
-     Math = "Fun"
+     Math = "probability. fun + probability.calc
+     Visualization = 
+     Interest = ""
      
-     def future(newby):
-          position = experience.ml +experience.py+Ability_to_learn
+     def opportunity(SQL, python, ml, probability, interest, ):
+          job = Analyze(SQL)+ use(python)+ apply(ml) + output(probability) 
      return job
+     
+     opportunity()
 ```
 
 ### Markdown
