@@ -6,10 +6,9 @@ from school import ability_to_learn
 from parents import happy_life
      
      Age = 33
-     Nationality = Ukrainan
-     Citizenship = US
-     Education = BS_Science_IT
-     ML_Experience = Intern_text_machine_lab
+     Languages = ["English", "Ukrainian", "Russian"]
+     Education = [BS_Science_IT, BS_CS]
+     ML_Experience = ["Intern_text_machine_lab", "Math_teacher", "Project_manager"]
      Work = Math_teacher
      
 ```
