@@ -1,8 +1,9 @@
 ## Work Experience
 
-```  from life import experience
-     from school import ability_to_learn
-     from parents import happy_life
+```  
+from life import experience
+from school import ability_to_learn
+from parents import happy_life
      
      Age = 33
      Nationality = Ukrainan
