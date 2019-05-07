@@ -7,10 +7,17 @@ from parents import happy_life
      
      Age = 33
      Languages = ["English", "Ukrainian", "Russian"]
-     Education = [BS_Science_IT, BS_CS]
-     ML_Experience = ["Intern_text_machine_lab", "Math_teacher", "Project_manager"]
-     Work = Math_teacher
+     Education = ["BS_IT", "BS_CS"]
+     Experience = ["Intern_text_machine_lab", "Math_teacher", "Project_manager"]
+     Python = {
+          Numpy: Proficient;
+          Pandas: Proficient;
+          }
+     Math = "Fun"
      
+     def future(newby):
+          position = experience.ml +experience.py+Ability_to_learn
+     return job
 ```
 
 ### Markdown
