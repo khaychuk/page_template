@@ -1,8 +1,9 @@
 ## Work Experience
 
 ```  
-from life import experience
+from life import experience, character
 from school import ability_to_learn
+from work import expertize 
 from parents import happy_life
      
      Age = 33
